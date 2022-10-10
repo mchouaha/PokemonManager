@@ -1,0 +1,13 @@
+.adornment {
+    position: relative;
+}
+
+.adornment > span {
+    position: absolute;
+    right: 1em;
+    top: 5px;
+}
+
+.adornment > input {
+    width: 98%;
+}

@@ -1,0 +1,35 @@
+.card {
+    border: 1px solid;
+    width: 300px;
+    margin: 0.5em;
+}
+
+.card img {
+    display: flex;
+    margin: auto;
+}
+
+.img-pokemon {
+    width: 130px;
+    margin-top: 10px;
+}
+
+.name {
+    margin: 0;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 0px 10px;
+}
+
+table {
+    border-spacing: 0 10px;
+    width: 100%;
+}
+
+table > tr > td {
+    text-align: initial;
+}
